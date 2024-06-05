@@ -1,5 +1,6 @@
 define( [], function () {
   return {
+    test: "test",
     data: {
       "level_0": [],
       "level_1": [],
