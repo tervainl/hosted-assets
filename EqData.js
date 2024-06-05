@@ -1,8 +1,12 @@
 define( [], function () {
   return {
-    data: new Map( [
-      ["0", [1, 2, 3]],
-      ["1", [1]],
-      ["1", [1]], ["1", [1]], ["1", [1]],] )
+    data: {
+      "level_0": [],
+      "level_1": [],
+      "level_2": [],
+      "level_3": [],
+      "level_4": [],
+      "level_5": [],
+    }
   };
 } );
